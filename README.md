@@ -1,4 +1,4 @@
-# T-Graph
+# T-Graph Enhancing Sparse-view Camera Pose Estimation by Pairwise Translation Graph
 
 **Official implementation of**  
 **T-Graph: Enhancing Sparse-view Camera Pose Estimation by Pairwise Translation Graph**
