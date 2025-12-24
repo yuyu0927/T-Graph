@@ -19,7 +19,7 @@ Pretrained model weights are available at:
 
 All training scripts are based on **PyTorch Distributed Data Parallel (DDP)**.
 
-### 1️⃣ Train RelPose++ with **Pairwise Translation Graph (pair-t)**
+### 1️⃣ Train RelPose++ with **Pair Translation Graph (pair-t)**
 
 ```bash
 torchrun \
