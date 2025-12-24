@@ -2,6 +2,7 @@ import torch
 from torch import Tensor
 from torch.nn import functional as F
 
+
 def compute_optical_axis_directions(cameras) -> Tensor:
     """
     Compute normalized optical-axis direction vectors for all cameras.
